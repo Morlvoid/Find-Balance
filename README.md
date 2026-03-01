@@ -21,6 +21,11 @@
 
 或者按章节阅读 Markdown 源文件：
 
+- [第一部分：理论篇](docs/part1/README.md)
+  - [第1章 存在的天平](docs/part1/chapter1.md)
+- [第二部分：散文篇](docs/part2/README.md)
+  - [第2章 散文集](docs/part2/chapter2.md)
+- [附录](docs/appendix/)
 
 
 ## 🌱 如何参与
