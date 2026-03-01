@@ -30,5 +30,10 @@
 - **一起写**：如果你想贡献内容，可以 Fork 后提交 Pull Request
 
 ## 📄 许可证
+本书采用 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License** 授权。  
+这意味着你可以自由分享本书（复制、分发），但必须：
+- **署名**（给出适当的署名，提供指向许可证的链接）
+- **非商业性使用**（不得用于商业目的）
+- **禁止演绎**（不得修改、改编本书）
 
-本书采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 许可证（署名-非商业使用-禁止演绎）。
+详细条款请参见 [LICENSE](LICENSE) 文件。
